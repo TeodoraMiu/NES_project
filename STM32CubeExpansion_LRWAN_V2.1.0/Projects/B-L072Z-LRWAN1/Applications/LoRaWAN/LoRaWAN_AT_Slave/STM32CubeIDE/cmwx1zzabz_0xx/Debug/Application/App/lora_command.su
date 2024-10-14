@@ -1,0 +1,4 @@
+C:/Users/Asus/STM32CubeIDE/workspace_1.16.1/en.i-cube_lrwan.zip_expanded/STM32CubeExpansion_LRWAN_V2.1.0/Projects/B-L072Z-LRWAN1/Applications/LoRaWAN/LoRaWAN_AT_Slave/LoRaWAN/App/lora_command.c:748:13:CMD_GetChar	8	static
+C:/Users/Asus/STM32CubeIDE/workspace_1.16.1/en.i-cube_lrwan.zip_expanded/STM32CubeExpansion_LRWAN_V2.1.0/Projects/B-L072Z-LRWAN1/Applications/LoRaWAN/LoRaWAN_AT_Slave/LoRaWAN/App/lora_command.c:865:13:com_error	8	static
+C:/Users/Asus/STM32CubeIDE/workspace_1.16.1/en.i-cube_lrwan.zip_expanded/STM32CubeExpansion_LRWAN_V2.1.0/Projects/B-L072Z-LRWAN1/Applications/LoRaWAN/LoRaWAN_AT_Slave/LoRaWAN/App/lora_command.c:593:6:CMD_Init	8	static
+C:/Users/Asus/STM32CubeIDE/workspace_1.16.1/en.i-cube_lrwan.zip_expanded/STM32CubeExpansion_LRWAN_V2.1.0/Projects/B-L072Z-LRWAN1/Applications/LoRaWAN/LoRaWAN_AT_Slave/LoRaWAN/App/lora_command.c:614:6:CMD_Process	32	static,ignoring_inline_asm
